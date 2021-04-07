@@ -1,0 +1,18 @@
+{
+  "name": "avaamo_parser",
+  "version": "1.0.0",
+  "description": "document parser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ranjiba",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",   
+    "word-frequency-basic": "^1.0.0",    
+    "xml-parse": "^0.4.0"
+  }
+}
